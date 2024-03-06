@@ -1,0 +1,654 @@
+[0.00s -> 29.36s]  I don't know.
+[30.00s -> 38.42s]  The KBC Club consists of a number of banks and insurance companies in Europe.
+[39.44s -> 40.92s]  So we have KBC in Belgium.
+[41.70s -> 46.86s]  We have, which is called Cezo Bay in Czech Republic.
+[47.52s -> 49.22s]  We have Cezo Bay in Slovakia.
+[49.36s -> 50.82s]  Slovakia, Hungary.
+[51.66s -> 54.62s]  Hungary, E&H Bank in Hungary.
+[55.26s -> 58.34s]  And then in Bulgaria, we have UBB also.
+[58.34s -> 58.94s]  Yes.
+[58.94s -> 62.40s]  We had Ireland, but we sold it.
+[63.08s -> 63.32s]  Okay.
+[64.16s -> 66.22s]  So these are the main entities.
+[67.10s -> 71.92s]  And of course, if you would have an overview, we will see it later,
+[72.08s -> 76.34s]  of all the legal entities of the group, we have about 60, 65 legal entities.
+[77.24s -> 77.64s]  Okay.
+[78.12s -> 80.86s]  KBC Asset Management, Lease Company.
+[81.72s -> 84.84s]  So all the smaller companies are all legal entities.
+[85.52s -> 86.12s]  Okay.
+[86.12s -> 87.54s]  And from those 65,
+[87.54s -> 94.10s]  the European Central Bank says all financial entities,
+[94.10s -> 99.76s]  so under financial entities, you have the banks, the insurance companies, the asset managers,
+[100.56s -> 102.56s]  the pension funds, etc.
+[102.56s -> 103.06s]  Yeah.
+[103.80s -> 110.52s]  They should comply with the DORA, Digital Operational Resilience Act.
+[110.52s -> 111.34s]  Act, yes.
+[111.34s -> 114.54s]  By the 17th of January 2025.
+[114.90s -> 115.66s]  2025.
+[115.66s -> 116.16s]  Okay.
+[116.16s -> 116.66s]  Yeah.
+[116.66s -> 117.16s]  Yeah.
+[117.16s -> 132.58s]  So they issued the laws, I think it was already in 2022, and it was approved in 2023, and it
+[132.58s -> 136.36s]  was a text of 100, 200 pages, legal text.
+[136.88s -> 137.38s]  Okay.
+[137.38s -> 144.82s]  So very difficult to see, to interpret exactly what the requirements are.
+[146.02s -> 146.98s]  But they,
+[147.16s -> 154.34s]  they publish now and then what they call RTS, Regulatory Technical Standards.
+[155.28s -> 161.26s]  So this gives more detail on the legal texts, how to implement it,
+[161.52s -> 165.76s]  what the specific requirements are in the different domains of DORA.
+[166.02s -> 166.40s]  Okay.
+[166.40s -> 168.76s]  So DORA has four pillars.
+[169.82s -> 171.92s]  The first pillar is risk management.
+[171.92s -> 172.42s]  Mm-hmm.
+[173.12s -> 175.76s]  The second is incident management.
+[176.56s -> 177.12s]  The second is?
+[177.12s -> 178.42s]  The second pillar.
+[178.42s -> 178.92s]  Nice.
+[178.92s -> 179.68s]  Incident management.
+[179.68s -> 180.18s]  Incident.
+[180.18s -> 180.68s]  Yeah.
+[180.68s -> 186.68s]  The third pillar is threat level penetration testing.
+[186.68s -> 187.18s]  Okay.
+[187.18s -> 188.12s]  So pen testing.
+[188.12s -> 189.12s]  Pen testing, yeah.
+[189.12s -> 193.88s]  Threat level, so it's, it's another, it's mainly red team testing.
+[193.88s -> 194.38s]  Mm-hmm.
+[194.38s -> 194.88s]  Okay.
+[195.62s -> 200.28s]  And the fourth pillar is third party risk management.
+[200.84s -> 201.34s]  Mm-hmm.
+[201.70s -> 205.24s]  So the risks that third parties imposes on your business.
+[205.24s -> 205.70s]  Mm-hmm.
+[205.70s -> 206.24s]  So the risks that third parties imposes on your business.
+[206.24s -> 206.54s]  Mm-hmm.
+[206.54s -> 211.14s]  So for example we use some Microsoft.
+[211.14s -> 211.64s]  Mm-hmm.
+[211.64s -> 212.14s]  Mm-hmm.
+[212.14s -> 214.64s]  It's, it's all about IT, IT services.
+[214.64s -> 215.44s]  Okay.
+[215.44s -> 215.94s]  Yeah.
+[215.94s -> 218.64s]  DORA is digital operation.
+[218.64s -> 219.04s]  Yeah.
+[219.04s -> 219.28s]  Yeah.
+[219.28s -> 219.80s]  So it's IT.
+[219.80s -> 220.56s]  IT, IT .
+[220.56s -> 220.90s]  Yeah.
+[220.90s -> 221.08s]  Yeah.
+[221.08s -> 227.62s]  So the fourth pillar is third party risk management.
+[227.62s -> 236.24s]  So they, they, Europe ECB, Europe Central Bank wants to know what risk management is.
+[236.24s -> 246.24s]  risks are imposed by third-party providers, Amazon, Microsoft, Google, also the smaller
+[246.24s -> 253.92s]  companies. If we use a software for a very small company, for a certain business in the bank,
+[254.56s -> 262.08s]  then if this company goes broke, then what is the risk for the bank? So he wants to have
+[262.08s -> 269.60s]  an overall view on the European level, what are the providers, who is providing services to banks,
+[270.96s -> 275.68s]  and how critical are they? Because if many banks use the same provider,
+[277.04s -> 282.40s]  and this provider is not performing well or it goes broke, what is then the impact on the
+[282.40s -> 290.96s]  financial system? Systemic risk. So they want to know that. And one part of this
+[290.96s -> 292.08s]  third-party risk management, the third-party risk management, is the risk of the third party.
+[292.08s -> 303.86s]  management is that we have to give to the ECB at least yearly a full register of information
+[303.86s -> 313.58s]  of those third-party provider contracts. So we have a few thousand contracts. It's crazy.
+[313.58s -> 322.82s]  How many? Only in Belgium. So all the entities of KBC have to do this job. So make an inventory
+[322.82s -> 334.34s]  of all the contracts with all the detailed information that sits in a contract, put it
+[334.34s -> 339.58s]  in a register and report it to the regulator.
+[339.58s -> 342.58s]  And the register here is .NET application?
+[342.58s -> 343.58s]  .NET application.
+[343.58s -> 352.58s]  The register, well, all the contracts are put, contracts for Belgium are put in SAP,
+[352.58s -> 361.58s]  SAP DMS. So procurement, when there is a new contract, procurement makes an entry in SAP,
+[361.58s -> 370.58s]  so all the contract information is there. But it's not up to date. It's not complete.
+[370.58s -> 372.58s]  And Dora asks many more questions.
+[372.58s -> 376.58s]  Many more details that we don't have even today.
+[376.58s -> 383.58s]  But we have to think about. For example, how difficult is it to change provider?
+[383.58s -> 391.58s]  And you have choices. One, two, three. So this is something that we have to think about
+[391.58s -> 400.58s]  and choose. So we need criteria to choose because otherwise he will say very difficult
+[400.58s -> 401.58s]  and the other will say easy.
+[401.58s -> 404.58s]  So we have to use criteria.
+[404.58s -> 411.58s]  Or what is an alternative provider for this service?
+[411.58s -> 420.58s]  So for each contract we have to say for which business function is this contract necessary?
+[420.58s -> 426.58s]  What kind of IS service is this contract delivering?
+[426.58s -> 429.58s]  Is it a critical service or not?
+[429.58s -> 436.58s]  If it's critical, then we need all the complete supply chain.
+[436.58s -> 440.58s]  It means subcontractors we also need to know.
+[440.58s -> 445.58s]  So we have to ask Microsoft, all the subcontractors of Microsoft.
+[445.58s -> 448.58s]  Can you imagine how crazy this is?
+[448.58s -> 452.58s]  And those subcontractors, they also have subcontractors.
+[452.58s -> 454.58s]  So they want to know the whole chain.
+[454.58s -> 456.58s]  The supply chain for the subcontractors.
+[456.58s -> 457.58s]  Yes.
+[457.58s -> 458.58s]  Because the service is critical.
+[458.58s -> 459.58s]  Yes.
+[459.58s -> 461.58s]  Because only for the critical service.
+[461.58s -> 463.58s]  Only for the critical service.
+[463.58s -> 465.58s]  So now we are starting an exercise.
+[465.58s -> 467.58s]  We are busy with it.
+[467.58s -> 474.58s]  To define what are the critical business functions in the company.
+[474.58s -> 477.58s]  In the bank, in the insurer, because we are a bank insurer.
+[477.58s -> 480.58s]  So bank insurers, asset management, all the business lines.
+[480.58s -> 483.58s]  We are investigating what are the business functions.
+[483.58s -> 488.58s]  First of all, because on the level of business line,
+[488.58s -> 491.58s]  we have 65 business lines defined.
+[491.58s -> 493.58s]  It's a very high level.
+[493.58s -> 497.58s]  For example, KPC, asset management,
+[497.58s -> 503.58s]  who is managing mutual funds, funds, portfolios, investment portfolios, etc.
+[503.58s -> 505.58s]  It's only one business line.
+[505.58s -> 513.58s]  If you say this is critical, then everything below becomes critical.
+[513.58s -> 514.58s]  Okay.
+[514.58s -> 517.58s]  Which is in reality not the fact.
+[517.58s -> 521.58s]  Because certain functions, certain activities of asset management are critical,
+[521.58s -> 523.58s]  but others are not.
+[523.58s -> 524.58s]  Okay.
+[524.58s -> 526.58s]  So we need a lower level of detail.
+[526.58s -> 530.58s]  And sometimes we have it, sometimes we don't have it.
+[530.58s -> 532.58s]  And it has to be made.
+[532.58s -> 535.58s]  So this exercise which is starting up now.
+[535.58s -> 538.58s]  And then if we have this lower level of detail,
+[538.58s -> 540.58s]  we can even go more lower.
+[540.58s -> 542.58s]  But then at this lower level,
+[542.58s -> 546.58s]  you can connect or we have to connect the business applications,
+[546.58s -> 548.58s]  the software, the business applications,
+[548.58s -> 550.58s]  to the business function.
+[550.58s -> 551.58s]  We have to connect it.
+[551.58s -> 553.58s]  So for example,
+[553.58s -> 556.58s]  Murex, the software Murex,
+[556.58s -> 559.58s]  is working for the dealing room.
+[559.58s -> 562.58s]  A certain activity in the dealing room.
+[562.58s -> 564.58s]  This activity seems to be critical,
+[564.58s -> 568.58s]  so Murex is critical for business applications.
+[568.58s -> 571.58s]  And then who is the provider of this software?
+[571.58s -> 572.58s]  It's Murex.
+[572.58s -> 575.58s]  And then we go down.
+[575.58s -> 580.58s]  And the criteria to consider some companies are critical.
+[580.58s -> 582.58s]  They are.
+[582.58s -> 585.58s]  They are in templates, UCB?
+[585.58s -> 586.58s]  ECB.
+[586.58s -> 587.58s]  ECB.
+[587.58s -> 588.58s]  ECB.
+[588.58s -> 591.58s]  Well, the definition is very vague.
+[591.58s -> 592.58s]  Right.
+[592.58s -> 594.58s]  We cannot use it.
+[594.58s -> 596.58s]  Yeah.
+[596.58s -> 598.58s]  So but that's not your problem.
+[598.58s -> 599.58s]  Yeah.
+[599.58s -> 601.58s]  It's our problem, of course.
+[601.58s -> 603.58s]  But we have to come up.
+[603.58s -> 604.58s]  In fact, they say,
+[604.58s -> 608.58s]  whatever function,
+[608.58s -> 610.58s]  if it stops to work
+[610.58s -> 615.58s]  and it endangers the continuity of the service,
+[615.58s -> 617.58s]  of your business.
+[617.58s -> 618.58s]  It's considered as critical.
+[618.58s -> 620.58s]  Then it's considered as critical.
+[620.58s -> 621.58s]  Yeah.
+[621.58s -> 623.58s]  So, but they are busy with it.
+[623.58s -> 625.58s]  Why am I explaining this?
+[625.58s -> 628.58s]  Because you will see that,
+[628.58s -> 632.58s]  well, you will be building this register of information.
+[632.58s -> 634.58s]  This contract register.
+[634.58s -> 635.58s]  Yeah.
+[635.58s -> 636.58s]  Not building.
+[636.58s -> 637.58s]  Making the analysis.
+[637.58s -> 638.58s]  Yeah.
+[638.58s -> 639.58s]  So you need some context information.
+[639.58s -> 640.58s]  That's why I give it to you.
+[640.58s -> 641.58s]  Sure.
+[641.58s -> 642.58s]  So now they are starting to define what are the critical business functions,
+[642.58s -> 643.58s]  which are not.
+[643.58s -> 644.58s]  To link the business applications.
+[644.58s -> 645.58s]  And below the business applications,
+[645.58s -> 646.58s]  either we build them ourselves.
+[646.58s -> 647.58s]  It's in-house build.
+[647.58s -> 648.58s]  Then it's not in scope of Dora.
+[648.58s -> 649.58s]  In-house build.
+[649.58s -> 650.58s]  Yeah.
+[650.58s -> 651.58s]  Of course, it's in scope of other builders of Dora.
+[651.58s -> 652.58s]  But not all of them.
+[652.58s -> 653.58s]  Yeah.
+[653.58s -> 654.58s]  Yeah.
+[654.58s -> 655.58s]  Yeah.
+[655.58s -> 656.58s]  Yeah.
+[656.58s -> 657.58s]  Yeah.
+[657.58s -> 658.58s]  Yeah.
+[658.58s -> 659.58s]  Yeah.
+[659.58s -> 660.58s]  Yeah.
+[660.58s -> 661.58s]  Yeah.
+[661.58s -> 662.58s]  Yeah.
+[662.58s -> 663.58s]  Yeah.
+[663.58s -> 664.58s]  Yeah.
+[664.58s -> 665.58s]  So it all.
+[665.58s -> 666.58s]  Well, that goes to I.B.M.
+[666.58s -> 667.58s]  This is not for the third party.
+[667.58s -> 668.58s]  Ah.
+[668.58s -> 671.58s]  Or, if you are provided by a vendor, then,
+[671.58s -> 678.58s]  of course, we need to connect the contracts to this.
+[678.58s -> 679.58s]  To this business application.
+[679.58s -> 680.58s]  Yeah.
+[680.58s -> 681.58s]  Mm-hmm .
+[681.58s -> 686.58s]  And it becomes even more complex because for IBM,
+[686.58s -> 689.58s]  we found 48 contracts for one vendor.
+[689.58s -> 690.58s]  Forty eight.
+[690.58s -> 691.58s]  Forty eight.
+[691.58s -> 692.58s]  Yeah.
+[692.58s -> 693.58s]  Microsoft Office H power.
+[693.58s -> 701.42s]  microsoft even more so we the first thing we have to ask is which of those contracts are relevant
+[702.22s -> 710.62s]  to report to the regulator which are relevant yeah which we don't need to report because it
+[710.62s -> 717.18s]  was yeah it was one consultant who worked for one month uh to make a presentation of whatever
+[717.18s -> 723.82s]  yes it's not it's not relevant it's not connected to a business a particular business function
+[724.54s -> 730.38s]  your contract is also it is a pay it's not relevant yeah because if you would have to
+[730.38s -> 737.10s]  report all consultants then we have yes it's not possible it's it's but we work together with
+[737.10s -> 745.90s]  cognizant indian company who delivers 500 ideas in india yeah yeah this contract is very relevant
+[745.90s -> 747.18s]  because if they stop working
+[747.18s -> 752.70s]  then we have an issue right yeah because they are doing maintenance of the entire application
+[752.70s -> 760.70s]  portfolio so um but we have to decide when it becomes relevant when not it's a decision that
+[760.70s -> 770.30s]  has to be taken group risk group legal is involved uh compliance procurement is involved so therefore
+[770.94s -> 777.02s]  and because we are talking about many many contracts therefore we must hire a number of
+[777.34s -> 785.66s]  legal legal guys yeah so i asked to to look internally if we have some legal guys available
+[785.66s -> 790.22s]  we are now looking in bruno in czech republic they have some legal guys
+[790.22s -> 797.74s]  there in the shared service center so all of these are things in my program that needs that
+[797.74s -> 806.62s]  need to be done so um and to consider some contracts is critical or relevant we need some
+[807.98s -> 816.22s]  and this criteria they are written down yeah so we have we have a business impact analysis template
+[816.22s -> 825.18s]  yes template and the business function has to be the bia score has to be done for each of the
+[825.18s -> 833.26s]  business functions and the bia template is really a template where it asks is your service blah blah
+[833.26s -> 836.46s]  if something happens what how big is the loss etc so okay okay so we have a business impact analysis
+[837.18s -> 843.82s]  look we have some templates criteria that the people the local operational risk managers in each
+[843.82s -> 850.30s]  business department must fill must use the bia template fill it in okay and the outcome will say
+[850.30s -> 857.58s]  it's if it's critical or not okay so this is an exercise that needs to happen now yes yeah they do
+[857.58s -> 863.02s]  it every year but now they have changed the template they have adapted the template to the dora
+[863.82s -> 867.10s]  okay legislation and of dora legislation we have
+[867.18s -> 872.62s]  some templates with all these criteria okay because dora doesn't give
+[873.42s -> 879.98s]  any template for the criteria we have to do it ourselves dora says it's your responsibility
+[879.98s -> 888.54s]  it's you who is best placed to see if something is critical or not we cannot do it as a regulator
+[888.54s -> 895.18s]  we cannot say this is critical for you because for example leasing car leasing
+[897.18s -> 902.86s]  is a big part of our business we can say okay this is critical for us we can say this is critical for
+[902.86s -> 906.62s]  us we can say this is critical for us we can say this is critical for the company so we can say
+[906.62s -> 912.54s]  it's not critical in belgium but it is critical in slovak republic because it's a very big part
+[912.54s -> 919.26s]  of their business okay so the regulator doesn't know this information so he can say there are
+[919.26s -> 925.42s]  certain activities which have to be critical and we call them
+[925.42s -> 937.98s]  information uh so yes no problem so srb um is a regulation from years ago where the ecb wanted to
+[937.98s -> 948.86s]  know if something serious happens with kbc or with any systemic bank important bank important means
+[948.86s -> 956.78s]  if the bank stops working it endangers the economy of a country if kbc stops working tomorrow for
+[956.78s -> 964.06s]  example something happens a run on the bank you don't have enough money anymore blah blah blah
+[964.06s -> 971.50s]  yeah then the economy is destabilized because people cannot lend money anymore
+[972.62s -> 978.22s]  enterprises will stop working no credits etc etc so ecb said
+[979.18s -> 989.82s]  uh we want to know all the activities that we have to take over in case kbc comes into problems
+[990.38s -> 1002.30s]  okay so if kbc is not um cannot continue its its service anymore for some reason
+[1003.26s -> 1008.54s]  the regulator will appoint another bank to take over
+[1009.18s -> 1017.50s]  the most critical activities ah okay so that the the economy and the financial system can continue
+[1017.50s -> 1022.86s]  okay it's not destabilized yeah so for example if belfius comes into a problem
+[1022.86s -> 1029.82s]  then the ecb will appoint another bank you kbc or you bmp paribas or ing
+[1030.46s -> 1036.54s]  you will continue with the services of belfius which are the least impact analysis yes
+[1037.34s -> 1038.14s]  yeah so
+[1038.86s -> 1046.30s]  these activities which are which are known these main most important activities they are known
+[1047.02s -> 1052.46s]  dora says these activities at least are also critical for dora
+[1054.54s -> 1059.34s]  but we need more activities critical because these are only
+[1060.06s -> 1068.38s]  in case of major disaster we have to take over the the company the bank these activities are very
+[1068.86s -> 1073.58s]  important for us at the company uh you use it for many reasons you understand that but we suppose
+[1073.58s -> 1079.58s]  there are other activities that are also critical yeah but not vital to the the system
+[1081.42s -> 1090.14s]  but vital for your existence of the company so this uh is now busy yeah it started up it's uh
+[1090.14s -> 1094.54s]  we have a deloitte on it also to support us in this uh exercise
+[1095.34s -> 1097.18s]  um yes and the outcome
+[1097.18s -> 1106.18s]  will have a big impact on the level of detail that will be in the register of information.
+[1106.18s -> 1111.18s]  Because for each critical business function we need this whole supply chain and other
+[1111.18s -> 1123.18s]  details that we don't need in non-critical business functions.
+[1123.18s -> 1132.18s]  For the analysis, this is Teams.
+[1132.18s -> 1138.18s]  I don't know if you are familiar with Microsoft Teams.
+[1138.18s -> 1144.18s]  Yes, I think it's clear.
+[1144.18s -> 1150.18s]  So we have here Teams site DORA implementation.
+[1150.18s -> 1153.18s]  You are already part of this.
+[1153.18s -> 1162.18s]  You are already a member.
+[1162.18s -> 1165.18s]  Can I search my BC to connect?
+[1165.18s -> 1167.18s]  No?
+[1167.18s -> 1170.18s]  I will search my...
+[1170.18s -> 1174.18s]  You are here.
+[1174.18s -> 1176.18s]  So I am a member of this site.
+[1176.18s -> 1178.18s]  I made you a member of this site.
+[1178.18s -> 1181.18s]  It's a SharePoint website.
+[1181.18s -> 1182.18s]  It's SharePoint.
+[1182.18s -> 1183.18s]  Yes.
+[1183.18s -> 1187.18s]  So if we go then to files here.
+[1187.18s -> 1190.18s]  We have a lot of folders.
+[1190.18s -> 1191.18s]  I will search my BC.
+[1191.18s -> 1192.18s]  Yes.
+[1192.18s -> 1195.18s]  Yes sir.
+[1195.18s -> 1200.18s]  .
+[1200.18s -> 1209.18s]  .
+[1209.18s -> 1210.18s]  .
+[1210.18s -> 1211.18s]  .
+[1211.18s -> 1212.18s]  .
+[1212.18s -> 1217.18s]  .
+[1217.18s -> 1218.18s]  .
+[1218.18s -> 1223.18s]  .
+[1223.18s -> 1230.18s]  .
+[1230.18s -> 1231.18s]  .
+[1231.18s -> 1232.18s]  .
+[1232.18s -> 1233.18s]  .
+[1233.18s -> 1234.18s]  .
+[1234.18s -> 1237.18s]  .
+[1237.18s -> 1238.18s]  .
+[1238.18s -> 1239.18s]  .
+[1239.18s -> 1240.18s]  .
+[1240.18s -> 1241.18s]  .
+[1241.18s -> 1255.18s]  okay
+[1258.86s -> 1269.18s]  and
+[1271.18s -> 1281.18s]  so
+[1281.18s -> 1291.18s]  so
+[1301.18s -> 1311.18s]  so
+[1311.18s -> 1321.18s]  so
+[1331.18s -> 1345.18s]  media token
+[1357.18s -> 1359.18s]  uh
+[1361.18s -> 1373.18s]  uh
+[1385.82s -> 1389.18s]  okay
+[1391.18s -> 1395.18s]  uh
+[1395.18s -> 1397.18s]  uh
+[1397.18s -> 1399.18s]  uh
+[1399.18s -> 1401.18s]  uh
+[1401.18s -> 1403.18s]  uh
+[1403.18s -> 1405.18s]  uh
+[1405.18s -> 1407.18s]  uh
+[1407.18s -> 1409.18s]  uh
+[1409.18s -> 1411.18s]  uh
+[1411.18s -> 1413.18s]  uh
+[1413.18s -> 1415.18s]  uh
+[1415.18s -> 1417.18s]  uh
+[1417.18s -> 1419.18s]  uh
+[1419.18s -> 1421.18s]  uh yeah okay
+[1421.18s -> 1423.18s]  uh
+[1423.18s -> 1425.18s]  uh
+[1425.18s -> 1427.18s]  okay
+[1427.18s -> 1429.18s]  uh
+[1429.18s -> 1431.18s]  okay
+[1431.18s -> 1433.18s]  uh
+[1433.18s -> 1435.18s]  yeah
+[1435.18s -> 1437.18s]  record my screen
+[1437.18s -> 1439.18s]  uh
+[1439.18s -> 1441.18s]  okay
+[1441.18s -> 1443.18s]  okay
+[1443.18s -> 1445.18s]  okay
+[1445.18s -> 1447.18s]  okay
+[1447.18s -> 1449.18s]  um
+[1449.18s -> 1451.18s]  um
+[1451.18s -> 1460.30s]  uh just to record my screen because in purple point we can have for me we can be just at the
+[1460.30s -> 1486.78s]  screen
+[1487.02s -> 1489.74s]  maybe your access rights are not yet
+[1491.26s -> 1498.78s]  uh wait okay look this is the one that you got access from me
+[1517.02s -> 1518.78s]  let's see
+[1520.86s -> 1523.42s]  but you're on a politician yeah but it's
+[1526.22s -> 1532.78s]  you know
+[1537.74s -> 1546.78s]  you are part of this thing
+[1547.42s -> 1550.22s]  oh it's really strange why i don't get
+[1551.26s -> 1554.94s]  these yeah you are a member of this
+[1561.42s -> 1564.70s]  but maybe if you are and then he has already
+[1564.70s -> 1567.26s]  exists
+[1571.26s -> 1577.26s]  um
+[1577.26s -> 1579.26s]  i'm already
+[1580.62s -> 1586.14s]  no no right okay okay yes now it's there
+[1587.26s -> 1595.90s]  super files yes down yeah excuse me oh wait wait wait wait okay so
+[1595.90s -> 1597.42s]  regulations and directors
+[1600.46s -> 1609.34s]  you got the folder uh if you then just yeah then modify you to older when you see the latest
+[1610.30s -> 1624.58s]  so these are the legal texts so the ones who are important for you is this one
+[1624.58s -> 1630.02s]  the final report on the draft implementation technical standard how
+[1630.02s -> 1635.14s]  you should implement the register of information so this text we have to read
+[1635.14s -> 1644.98s]  okay from the beginning till the end okay you can print it out whatever you
+[1644.98s -> 1664.30s]  do so okay this is blah blah yeah and then okay so here you see for example
+[1664.30s -> 1664.50s]  how
+[1665.14s -> 1672.52s]  they defined the relational model for the different each RT is a template each
+[1672.52s -> 1677.32s]  art is a template that we have to be able to deliver will be an RP in
+[1677.32s -> 1682.16s]  central bank I'm just what one more question these don't play it's all this
+[1682.16s -> 1684.64s]  top legs
+[1685.46s -> 1694.90s]  provided by ECB yeah this document PCB you see me but you could say all we make
+[1694.90s -> 1695.04s]  it
+[1695.04s -> 1695.10s]  template it's a template that we have to be able to deliver but you could say all we make it
+[1695.10s -> 1695.12s]  template it's a template that we have to be able to deliver but you could say all we make it
+[1695.12s -> 1703.66s]  we make just a table, a table for each template and then we have it, or then we are not, because
+[1703.66s -> 1711.68s]  you have a contract template and they mention the vendor name, the name of the vendor, for
+[1711.68s -> 1714.60s]  all the information of this vendor.
+[1714.60s -> 1718.36s]  So for each contract we are going to double all this information?
+[1718.36s -> 1719.46s]  No.
+[1719.46s -> 1726.62s]  So we will have probably a table for vendor information and we'll just refer with an ID
+[1726.62s -> 1731.36s]  of this vendor in the contract and not repeat vendor provider.
+[1731.36s -> 1732.36s]  For example?
+[1732.36s -> 1733.36s]  Microsoft.
+[1733.36s -> 1735.64s]  Microsoft, okay.
+[1735.64s -> 1745.12s]  So Microsoft has a unique legal entity identifier, it's a number, like tax number, VAT number.
+[1745.12s -> 1746.12s]  Unique.
+[1746.12s -> 1747.12s]  It is a unique number.
+[1747.12s -> 1748.12s]  Information.
+[1748.12s -> 1749.12s]  To be notified the vendor.
+[1749.12s -> 1749.42s]  Yes.
+[1749.42s -> 1753.58s]  To be identified because you have Microsoft in the States and Microsoft in Belgium are
+[1753.58s -> 1761.06s]  different legal entities, so each legal entity has a unique number, which is a key, and in
+[1761.06s -> 1766.02s]  the contract we can refer to this number, but then in another table, this is your data
+[1766.02s -> 1772.66s]  modeling that you have to do, in another table we will have then all the information of Microsoft
+[1772.66s -> 1779.08s]  as a provider, as a vendor, not related to the contract, but just where is Microsoft,
+[1779.08s -> 1780.08s]  which country, blah, blah, blah, et cetera.
+[1780.08s -> 1781.08s]  And all this information, I must search after this information on the internet or with some...
+[1781.08s -> 1782.08s]  No, no, you will get it.
+[1782.08s -> 1783.08s]  Okay.
+[1783.08s -> 1784.08s]  You will get the information.
+[1784.08s -> 1785.08s]  Perfect.
+[1785.08s -> 1786.08s]  Yes.
+[1786.08s -> 1787.08s]  So this is just structure that they say, okay, you can read it, blah, blah, blah.
+[1787.08s -> 1788.08s]  These are then the different templates with some very small description.
+[1788.08s -> 1789.08s]  Yes.
+[1789.08s -> 1790.08s]  This template is different.
+[1790.08s -> 1791.08s]  Yes.
+[1791.08s -> 1792.08s]  Yes.
+[1792.08s -> 1793.08s]  Yes.
+[1793.08s -> 1794.08s]  Yes.
+[1794.08s -> 1795.08s]  Yes.
+[1795.08s -> 1796.08s]  Yes.
+[1796.08s -> 1797.08s]  Yes.
+[1797.08s -> 1798.08s]  Yes.
+[1798.08s -> 1799.08s]  Yes.
+[1799.08s -> 1800.08s]  Yes.
+[1800.08s -> 1801.08s]  Yes.
+[1801.08s -> 1802.08s]  Yes.
+[1802.08s -> 1803.08s]  Yes.
+[1803.08s -> 1804.08s]  Yes.
+[1804.08s -> 1805.08s]  Yes.
+[1805.08s -> 1806.08s]  Yes.
+[1806.08s -> 1807.08s]  Yes.
+[1807.08s -> 1808.08s]  Yes.
+[1808.08s -> 1809.08s]  Yes.
+[1809.08s -> 1810.08s]  Yes.
+[1810.08s -> 1811.08s]  Yes.
+[1811.08s -> 1812.08s]  Yes.
+[1812.08s -> 1813.08s]  Yes.
+[1813.08s -> 1814.08s]  Yes.
+[1814.08s -> 1815.08s]  Okay.
+[1815.08s -> 1816.08s]  Then this is...
+[1816.08s -> 1817.08s]  It is first detailed in this document, yes?
+[1817.08s -> 1818.08s]  Right.
+[1818.08s -> 1819.08s]  So all the RTs are detailed.
+[1819.08s -> 1820.08s]  Ah, okay.
+[1820.08s -> 1821.08s]  Then example of an IT service supply chain.
+[1821.08s -> 1825.96s]  So for example, KBC Bank, financial entity making use of an IT service.
+[1825.96s -> 1831.18s]  So for example, KBC Bank, there is a contractual arrangement number, right?
+[1831.18s -> 1834.84s]  Each contract has a number and then we have a direct provider.
+[1834.84s -> 1835.98s]  Yes.
+[1835.98s -> 1837.84s]  And then a limited contractor, right?
+[1837.84s -> 1838.84s]  Yes.
+[1838.84s -> 1852.36s]  and then we have the subcontractors yeah okay see so this is uh blah blah and then okay um yeah yeah
+[1856.60s -> 1861.88s]  chapter one we must integrate all these informations in the data model
+[1861.88s -> 1869.32s]  now which you have to design increase but that comes tomorrow tomorrow you
+[1869.32s -> 1874.36s]  sit together with the enterprise architect who knows all the details about these text
+[1876.44s -> 1883.96s]  yes so let's go to 11 or 11. yeah so list of templates again
+[1886.44s -> 1891.80s]  okay and now here you have instructions how you have to complete each
+[1891.88s -> 1899.48s]  of the templates. So, for example, the template RT0101 is called the entity maintaining the
+[1899.48s -> 1907.32s]  register of information. What is the legal entity identifier of this entity? So, for
+[1907.32s -> 1920.78s]  example, all the entities, more than 30 entities, 31, 32 entities have to report on their contracts
+[1920.78s -> 1929.02s]  to the regulator. So, it's not only one report for KBC Group, no, it's one report for KBC Bank,
+[1929.02s -> 1936.40s]  it's a report for KBC Asset Management, it's a report for KBC Insurance. So, all the legal
+[1936.40s -> 1944.88s]  entities have to report, solo, their contracts and they ask also a sub-consolidated level
+[1944.88s -> 1950.72s]  and a consolidated level. Ultimate KBC Group and we have to consolidate all this information.
+[1950.72s -> 1950.74s]  Okay.
+[1950.78s -> 1956.42s]  Okay. But all insurance, for example, entities have the same templates?
+[1956.42s -> 1962.40s]  Yeah, yeah, yeah. Everybody uses the same, the same template. So, for example, this is
+[1962.40s -> 1968.02s]  the explanation how this template. So, the code, the name of the entity, it's alphanumeric,
+[1968.02s -> 1975.08s]  the legal name, the type of country, identify ISO, one alpha, two code, blah, blah, blah,
+[1975.08s -> 1980.78s]  type of entity. You have these options. It's a credit institution, it's a payment institution,
+[1980.78s -> 1986.42s]  electronic money, investment firm, crypto. Okay.
+[1986.42s -> 1995.42s]  Okay. That's type of the entity. It goes further here. Yeah. Then, competent authority. Under
+[1995.42s -> 2001.24s]  which authority falls this identified competent authority according to? So, for example,
+[2001.24s -> 2005.62s]  we fall under the, I think, EBA or something like that.
+[2005.62s -> 2006.62s]  Okay.
+[2006.62s -> 2007.62s]  Okay.
+[2007.62s -> 2008.62s]  Okay.
+[2008.62s -> 2009.62s]  Okay.
+[2009.62s -> 2010.62s]  Okay.
+[2010.62s -> 2011.62s]  So, who is regulating your entity?
+[2011.62s -> 2012.62s]  ...
+[2012.62s -> 2013.62s]  ...
+[2013.62s -> 2014.62s]  ...
+[2014.62s -> 2015.62s]  ...
+[2015.62s -> 2016.62s]  ...
+[2016.62s -> 2021.26s]  Asset management is FSMA, etc. But, okay, we have to look in this article.
+[2021.26s -> 2026.94s]  Date of reporting, when is the date of your report? Okay. Then, next template. And it
+[2026.94s -> 2033.60s]  goes for every template. Every template, they describe how you should fill it in.
+[2033.60s -> 2034.60s]  ...
+[2034.60s -> 2035.60s]  Uh-huh. Okay.
+[2035.60s -> 2036.60s]  ...
+[2036.60s -> 2037.60s]  ...
+[2037.60s -> 2038.60s]  ...
+[2038.60s -> 2039.60s]  ...
+[2039.60s -> 2040.60s]  ...
+[2040.60s -> 2049.48s]  show is here what we are going to do is to build a tool that holds all this
+[2049.48s -> 2061.66s]  information in a normalized way that people are able to manage all this
+[2061.66s -> 2071.26s]  information via data entry and then people can upload if they say we have
+[2071.26s -> 2076.88s]  collected we got from Munir a nice template in Excel with columns and
+[2076.88s -> 2084.62s]  tablets and tabs yeah vendors we collected all this information in this
+[2084.62s -> 2091.66s]  Excel and now we are going to upload it that we don't have to enter
+[2091.66s -> 2097.30s]  this is a possibility so the bigger entities will probably go for the
+[2097.30s -> 2104.98s]  solution that we provide a template and that people make sure that all the
+[2104.98s -> 2109.62s]  information is collected in this template and this is then the format
+[2109.62s -> 2117.38s]  that the dotnet guys will use to upload this information in this database database
+[2117.38s -> 2120.48s]  okay or a smaller entity for example smaller
+[2120.48s -> 2121.64s]  entity who has only two
+[2121.64s -> 2133.52s]  ten contracts they say no we're going to talk with yes no and these two should
+[2133.52s -> 2140.14s]  then if all the information is in the system in the database we press the
+[2140.14s -> 2147.94s]  button report for which entity you want to report yes okay drip pull down menu
+[2147.94s -> 2151.54s]  is entity we have access to it
+[2151.64s -> 2159.04s]  you are contract owner of a contract of check bank I don't think you should ask
+[2159.04s -> 2166.50s]  the report for Belgium so there are some user and access rights you get
+[2166.50s -> 2173.32s]  bought about yes who are the contract owners and some roles you have an
+[2173.32s -> 2180.30s]  administrative role maybe who must do anything must be able to do anything you
+[2180.30s -> 2181.44s]  contract owners
+[2181.64s -> 2187.26s]  all of these things have to be analyzed yeah also if people upload information
+[2187.26s -> 2198.68s]  there is definitely quality check yes if they either upload information is
+[2198.68s -> 2204.30s]  already in the system I'm going to overwrite it or not what should we do
+[2204.30s -> 2212.80s]  things have to be bought and discussed we need to detect if the information are
+[2212.80s -> 2221.68s]  already uploaded or not to prevent arriving information accident for example
+[2221.68s -> 2232.00s]  well maybe do you really want to replace fine so many things it's typical analyst
+[2232.00s -> 2234.26s]  work yeah so if you are going to
+[2234.26s -> 2234.28s]  replace so many things it's typical analyst work yeah so if you are going to
+[2234.28s -> 2239.80s]  read and think about what this application should be able to do what
+[2239.80s -> 2243.18s]  are the business requirements for this application that's the first step
+[2243.18s -> 2252.52s]  according to me getting to know this text sitting together tomorrow with
+[2252.52s -> 2259.18s]  enterprise architect who will explain you a lot more and then starting with the
+[2259.18s -> 2264.24s]  requirements of this solution what are really what should my solution be
+[2264.24s -> 2272.58s]  able to do and if you have all these requirements listed down they have to
+[2272.58s -> 2279.44s]  be approved somebody has to challenge it read it and say okay these are I think
+[2279.44s -> 2286.32s]  it's complete based on these requirements okay I have to make user stories for the
+[2286.32s -> 2294.20s]  guys who are going to make the screenings develop the UI okay and a data model that's
+[2294.20s -> 2298.84s]  is able to contain all these all these more these informations yes yeah
+[2305.16s -> 2311.96s]  you don't have to bother which contracts are in scope or not that's something somebody else has
+[2311.96s -> 2317.88s]  to bother you know there is another program for the contracts yeah who will look at all
+[2317.88s -> 2323.56s]  the contracts collect all the information of the contracts go into negotiation with
+[2323.56s -> 2331.16s]  all the vendors because all the vendors have to sign a dora addendum about the contract so
+[2331.16s -> 2337.48s]  probably they will ask renegotiation of prices because they will say oh you will come to do an
+[2337.48s -> 2345.48s]  audit i don't think so yeah sorry we have to yeah if not we have to terminate the contract maybe
+[2346.12s -> 2350.20s]  so there will be renegotiations of hundreds and hundreds of contracts so it's a huge
+[2350.84s -> 2353.48s]  huge effort why are you negotiating because the
+[2353.56s -> 2359.88s]  bank won't maybe uh no no the provider the provider has to
+[2362.12s -> 2368.76s]  be okay with all the requirements that we will impose the providers
+[2368.76s -> 2374.92s]  impose the providers so we will say microsoft dear microsoft you will give us all the information
+[2374.92s -> 2382.52s]  about your subcontractors if they say we don't think so okay say now we have a problem because
+[2383.56s -> 2390.20s]  we have to be compliant with dora kbc has to be compliant with dora to be compliant we need this
+[2390.20s -> 2396.84s]  information to report to the regulator yeah so if you don't give it to me we don't need it yeah for
+[2397.80s -> 2403.48s]  if you don't give it to me i cannot report to you yeah this is just an example another example is
+[2403.48s -> 2411.32s]  you have to participate in pen testing yeah so we are going to do penetration testing and you have
+[2411.32s -> 2413.08s]  to participate in this exercise
+[2413.56s -> 2422.36s]  so for the bigger companies like sap amazon it will not be a problem yeah because the whole world
+[2422.36s -> 2427.96s]  is asking the same question too all the banks who are using their software are asking the same
+[2427.96s -> 2433.64s]  question so they are preparing themselves ibm is preparing itself so we have contact with the
+[2433.64s -> 2440.68s]  vendors already and we say what are you going to do with dora yeah we are busy okay everybody is
+[2440.68s -> 2442.92s]  busy busy yes so um
+[2443.56s -> 2451.80s]  so ultimately it has to arrive in your application i call it your application because you will be the
+[2453.96s -> 2462.28s]  the man who will decide yeah the who will write down the specifications the requirements the
+[2463.24s -> 2468.76s]  how the database should look like and then you will work together with the guys the developers
+[2471.16s -> 2473.32s]  define testing scenarios
+[2473.56s -> 2482.60s]  um also if there has to be a system demo because who is going to use it in the application
+[2483.96s -> 2487.48s]  we are going to build it from within belter yeah so we will fund
+[2490.52s -> 2497.88s]  but the whole group will be using it okay so there will be hundreds and hundreds of people using
+[2498.52s -> 2503.48s]  this application okay all the contract owners will have a look in it will adjust
+[2503.56s -> 2510.92s]  their contract whatever and today because you would say it's strange that kvc doesn't have
+[2510.92s -> 2519.96s]  one global contract life cycle management database to keep all their contracts in one place
+[2519.96s -> 2527.32s]  what place yeah we don't have it okay and why mainly because
+[2527.32s -> 2534.28s]  this is just context information but it's interesting for you we have a pearl strategy
+[2534.28s -> 2544.76s]  and the last letter L is local embeddedness it means that from from within the top of the
+[2544.76s -> 2557.64s]  company we don't force any solution or whatever to the entities they are accountable for their
+[2557.64s -> 2566.36s]  own IT so each entity can decide upon their own ID okay they can they don't have to use the same data
+[2566.36s -> 2573.38s]  center they can use other software other solutions it's very strange for a company to work like this
+[2573.38s -> 2574.74s]  but the thought process is very interesting and I think it's very important for the company to
+[2574.74s -> 2574.76s]  work like this but the thought process is very interesting and I think it's very interesting
+[2574.76s -> 2584.14s]  was if they want to act fast in a market they should not wait for global solutions because
+[2584.14s -> 2591.58s]  they tend to take too much time okay yeah so they should try to act fast so they need their
+[2592.58s -> 2597.02s]  their own solutions you could say for but for contract management
+[2597.94s -> 2603.78s]  there is no local specification yeah that's true but we have a legacy
+[2603.78s -> 2611.64s]  the Czech guys use another solution we use this solution there is a strategic
+[2611.64s -> 2617.48s]  solution now decided for contract lifecycle management but it comes too late it will be
+[2617.48s -> 2625.76s]  there in 26 27 and DORA has to be compliant in the beginning of 25 so we call this a tactical
+[2625.76s -> 2630.64s]  solution tactical solution yes but if it's well built and I'm sure it will be well built
+[2631.88s -> 2633.16s]  it will be used for years
+[2633.78s -> 2634.42s]  yes but if it's well built and I'm sure it will be well built it will be used for years
+[2634.42s -> 2651.36s]  that's my experience yeah it's a it's not difficult to make something new it's very very difficult to dismantle something old to say we don't need it anymore to phase out something is very very difficult
+[2651.36s -> 2662.88s]  okay so the so the application stack is building building building up building up so and it's it should not it's becoming too complex the architecture
+[2662.88s -> 2671.80s]  for me because people cannot yeah cannot phase out or it's very difficult to
+[2671.80s -> 2675.06s]  phase out something because there is always a reason why you should keep the
+[2675.06s -> 2681.08s]  old system because the new one cannot treat all the possibilities of the old
+[2681.08s -> 2686.70s]  one and then they will keep some exceptions in the old application and it
+[2686.70s -> 2692.76s]  runs next to the new one so it's but that's I think every company has the same
+[2693.38s -> 2705.02s]  December challenge just my will make some schema here I explain that we have
+[2705.02s -> 2705.80s]  a
+[2706.30s -> 2708.10s]  some
+[2708.98s -> 2710.00s]  entities
+[2714.00s -> 2716.64s]  some entities
+[2717.88s -> 2719.00s]  what you want of course you have Legal
+[2721.00s -> 2722.88s]  and we will definitely do tomorrow with this okay this way but this
+[2722.88s -> 2728.40s]  i will say over and over high level high level high level very high level yes yeah
+[2730.40s -> 2738.80s]  and this entity is a subcontract with providers like microsoft for example okay well well it's
+[2738.80s -> 2746.32s]  it's a little bit more complex yeah these entities yes have a contract with kbc global services
+[2746.32s -> 2754.64s]  okay it's an intra group intra group service provider for i.t yes so kbc bank
+[2754.64s -> 2761.84s]  has only a few contracts with kbc global services yeah for maintenance development
+[2763.20s -> 2771.20s]  yeah and it is kbc global services who signs most of the contracts with the providers
+[2772.96s -> 2775.12s]  so we have an intra group provider
+[2776.32s -> 2782.64s]  yes and he has contracts with microsoft et cetera et cetera okay provider yes
+[2783.76s -> 2789.52s]  interactive provider provider yeah signal contract with yes
+[2793.92s -> 2800.64s]  so yeah they have these okay yeah and he has contract with microsoft or whatever
+[2801.44s -> 2805.92s]  yeah uh infra group has contracts with microsoft and uh yes and all the other
+[2806.32s -> 2814.56s]  yeah third-party providers yeah third-party providers yeah with okay yeah with the yeah
+[2814.56s -> 2816.72s]  the third-party providers
+[2823.76s -> 2833.20s]  okay third party provider super okay now and sometimes the entities we call it the business
+[2833.20s -> 2835.76s]  yeah they have we call it business you are
+[2836.32s -> 2843.36s]  yeah within the each of entity we call it that's the business yeah that's the real business yeah we
+[2843.36s -> 2850.88s]  are intra group service provider for i.t for example we are not the business this is the
+[2850.88s -> 2857.04s]  real bank business real bug business yeah bank or insurance or whatever yeah yes yeah so if you
+[2857.04s -> 2865.76s]  say business then we are referring to that yes okay and sometimes in some cases they have direct
+[2865.76s -> 2871.84s]  contracts with third-party providers direct contact with third party yeah okay so they for ninety
+[2871.84s -> 2882.80s]  percent they use this but sometimes they also have direct okay okay okay sometimes okay these
+[2882.80s -> 2892.56s]  entities must okay collaborate with intra group to sign contracts with a third party yes yeah well
+[2893.84s -> 2895.12s]  what they do they say
+[2895.76s -> 2907.60s]  r.i.t for r.i.t we use kbc global service that's our i.t provider r.i.t our our our our i.t provider
+[2907.60s -> 2914.88s]  this is the i.t provider providers by default for all entities within sorry for all entities
+[2914.88s -> 2924.32s]  within belgium you have kbc global services as i.t providers yeah entities in other countries
+[2926.72s -> 2935.60s]  they they have their own i.t providers okay okay jzb bank uses the i.t of jzb bank
+[2936.72s -> 2944.08s]  okay okay in belgium yeah that's the situation in belgium okay but this is not the case on other
+[2945.20s -> 2953.12s]  other entity for example chairs of a bank in czech republic uses the i.t of chesapeake bank so
+[2953.76s -> 2955.60s]  wait this is a legal
+[2955.76s -> 2963.20s]  construction legal it's a legal construction okay but chairs of a bank doesn't have this
+[2963.20s -> 2971.52s]  legal construction they use the i.t within the entity okay okay so we have here in belgium
+[2971.52s -> 2977.44s]  three thousand people working for i.t and they are working for kbc global services so i have a
+[2977.44s -> 2985.12s]  contract with kbc global services and not with kbc bank okay i mean i know the concrete they have an
+[2985.76s -> 2993.92s]  i.t service yeah they they yeah okay a terminal i.t service okay okay
+[2996.16s -> 3003.92s]  and for some for some stuff they also use kbc global service if we have a group
+[3005.04s -> 3013.76s]  some stuff okay only for limited for example they use o365 from microsoft and for collaboration we
+[3013.76s -> 3015.12s]  have a group solution
+[3016.48s -> 3025.36s]  and then they make use of kbc global services for this particular service okay so but for most of the
+[3025.36s -> 3032.72s]  services they use their own i.t okay and in in their own i.t you have contracts with third-party
+[3032.72s -> 3043.52s]  providers again yeah okay not the same but they have their own third-party providers yeah okay
